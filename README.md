@@ -7,6 +7,59 @@ This project presents an end-to-end **business intelligence solution** built usi
 The goal is to transform raw transactional data into actionable insights that support data-driven decision-making.
 
 ---
+## 📖 Case Study: Improving Retail Profitability
+
+### 🧩 Problem Statement
+
+The business was experiencing inconsistent profitability despite strong sales performance.
+Key questions included:
+
+* Which products are driving losses?
+* Are discounts impacting profitability?
+* Who are the most valuable customers?
+* Which areas need optimization?
+
+---
+
+### 🔍 Approach
+
+To address these challenges, an end-to-end analytics workflow was implemented:
+
+* Cleaned and transformed raw transactional data using Power Query
+* Built a **star schema data model** for efficient querying
+* Created DAX measures to track KPIs such as sales, profit, and margins
+* Designed interactive dashboards to analyze trends across customers, products, and regions
+
+---
+
+### 📊 Key Findings
+
+* 📉 High discounts are strongly associated with negative profits
+* 📦 Certain sub-categories (e.g., Tables) consistently generate losses
+* 🧑 A small group of customers contributes a significant portion of revenue
+* 🚚 Delivery performance varies by shipping mode, impacting customer experience
+
+---
+
+### 💡 Business Recommendations
+
+* Reduce excessive discounting on low-margin products
+* Focus marketing efforts on high-value customers
+* Re-evaluate pricing strategy for loss-making categories
+* Optimize logistics for faster delivery in key regions
+
+---
+
+### 📈 Impact
+
+This analysis enables stakeholders to:
+
+* Identify profit leakages
+* Improve pricing and discount strategies
+* Make data-driven decisions for growth
+
+---
+
 
 ## 🎯 Business Objectives
 
