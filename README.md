@@ -152,6 +152,8 @@ This analysis enables stakeholders to:
 * Category-wise Sales Contribution (Donut Chart)
 * Discount vs Profit Analysis (Scatter Plot)
 
+  <img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/1b534f91-befb-4fd5-b002-f452fd3534e0" />
+
 ---
 
 ## 🔄 Navigation & UX Enhancements
