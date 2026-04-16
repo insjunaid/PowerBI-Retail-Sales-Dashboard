@@ -142,6 +142,7 @@ This analysis enables stakeholders to:
 * Top 10 Customers (Revenue Contribution)
 * Customer-level performance analysis
 
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/2f7ba2cf-967d-49c1-bf61-00a086d916b6" />
 ---
 
 ### 📦 Page 3: Product Performance
