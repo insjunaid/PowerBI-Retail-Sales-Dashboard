@@ -131,7 +131,7 @@ This analysis enables stakeholders to:
 * Delivery Efficiency by Ship Mode
 * Interactive slicers (Region, Year, Segment)
 
-  <img width="876" height="492" alt="Image" src="https://github.com/user-attachments/assets/9d4bbabd-6a0d-45dd-b3c1-3d6c4c283065" />
+  <img width="500" height="450" alt="Image" src="https://github.com/user-attachments/assets/9d4bbabd-6a0d-45dd-b3c1-3d6c4c283065" />
 
 ---
 
