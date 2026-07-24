@@ -205,6 +205,6 @@ This project demonstrates the ability to:
 
 ## 📎 Author
 
-Junaid Shariff
+**Junaid Shariff**
 
 ---
